@@ -4,5 +4,5 @@ A system simulation of college admission students for over 5000 students and 50 
 Note: 
 1. Run the file name "Admission_Process"
 2. Make sure that all the four python files are in the same folder.
-3. Do not open the .csv files generated through codes while the code is running that is to be used by the compilter.
+3. Do not open the .csv files generated through codes while the code is running that is to be used by the compiler.
 
